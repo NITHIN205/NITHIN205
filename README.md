@@ -1,16 +1,42 @@
-## Hi there 👋
+```text
+███╗   ██╗ ██╗ ████████╗ ██╗  ██╗ ██╗ ███╗   ██╗    ██╗  ██╗
+████╗  ██║ ██║ ╚══██╔══╝ ██║  ██║ ██║ ████╗  ██║    ██║ ██╔╝
+██╔██╗ ██║ ██║    ██║    ███████║ ██║ ██╔██╗ ██║    █████╔╝
+██║╚██╗██║ ██║    ██║    ██╔══██║ ██║ ██║╚██╗██║    ██╔═██╗
+██║ ╚████║ ██║    ██║    ██║  ██║ ██║ ██║ ╚████║    ██║  ██╗
+╚═╝  ╚═══╝ ╚═╝    ╚═╝    ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝
+```
+```text
+  ╔══════════════════════════════════════════════════════╗
+  ║  [ ABOUT ]                                           ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  > Name       : Nithin K                              ║
+  ║  > Role       : Computer Science Undergraduate        ║
+  ║  > Focus      : Software Development                 ║
+  ║  > Languages  : Java, C, Python                       ║
+  ║  > Interests  : DSA, Web Development, AI Projects    ║
+  ║  > Mindset    : Build. Learn. Repeat.                 ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  [ TECH STACK ]                                      ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  > Languages  : Java / C / Python / JavaScript       ║
+  ║  > Web        : HTML / CSS / JavaScript              ║
+  ║  > Tools      : Git / GitHub / VS Code               ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  [ PROJECTS ]                                        ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  > NIVARA     : Sustainable Cities & Civic Issues    ║
+  ║  > MEDFLOW    : Smart Hospital Resource Simulator    ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  [ CONTACT ]                                         ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  > GitHub     : github.com/Code-Spacers              ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  [ STATUS ]                                          ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  > Learning   : Software & Problem Solving           ║
+  ║  > Mission    : Turning Ideas Into Code              ║
+  ╚══════════════════════════════════════════════════════╝
 
-<!--
-**NITHIN205/NITHIN205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [ BUILDING THE FUTURE, ONE COMMIT AT A TIME ]
+```
